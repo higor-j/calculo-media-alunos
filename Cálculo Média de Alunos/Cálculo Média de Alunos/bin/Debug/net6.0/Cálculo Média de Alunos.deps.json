@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Cálculo Média de Alunos/1.0.0": {
+        "runtime": {
+          "Cálculo Média de Alunos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cálculo Média de Alunos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

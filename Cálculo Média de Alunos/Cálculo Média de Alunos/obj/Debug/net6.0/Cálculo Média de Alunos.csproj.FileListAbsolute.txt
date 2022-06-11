@@ -1,0 +1,15 @@
+C:\Users\Higor\Documents\CSharp\Cálculo Média de Alunos\Cálculo Média de Alunos\bin\Debug\net6.0\Cálculo Média de Alunos.exe
+C:\Users\Higor\Documents\CSharp\Cálculo Média de Alunos\Cálculo Média de Alunos\bin\Debug\net6.0\Cálculo Média de Alunos.deps.json
+C:\Users\Higor\Documents\CSharp\Cálculo Média de Alunos\Cálculo Média de Alunos\bin\Debug\net6.0\Cálculo Média de Alunos.runtimeconfig.json
+C:\Users\Higor\Documents\CSharp\Cálculo Média de Alunos\Cálculo Média de Alunos\bin\Debug\net6.0\Cálculo Média de Alunos.dll
+C:\Users\Higor\Documents\CSharp\Cálculo Média de Alunos\Cálculo Média de Alunos\bin\Debug\net6.0\Cálculo Média de Alunos.pdb
+C:\Users\Higor\Documents\CSharp\Cálculo Média de Alunos\Cálculo Média de Alunos\obj\Debug\net6.0\Cálculo Média de Alunos.csproj.AssemblyReference.cache
+C:\Users\Higor\Documents\CSharp\Cálculo Média de Alunos\Cálculo Média de Alunos\obj\Debug\net6.0\Cálculo Média de Alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Higor\Documents\CSharp\Cálculo Média de Alunos\Cálculo Média de Alunos\obj\Debug\net6.0\Cálculo Média de Alunos.AssemblyInfoInputs.cache
+C:\Users\Higor\Documents\CSharp\Cálculo Média de Alunos\Cálculo Média de Alunos\obj\Debug\net6.0\Cálculo Média de Alunos.AssemblyInfo.cs
+C:\Users\Higor\Documents\CSharp\Cálculo Média de Alunos\Cálculo Média de Alunos\obj\Debug\net6.0\Cálculo Média de Alunos.csproj.CoreCompileInputs.cache
+C:\Users\Higor\Documents\CSharp\Cálculo Média de Alunos\Cálculo Média de Alunos\obj\Debug\net6.0\Cálculo Média de Alunos.dll
+C:\Users\Higor\Documents\CSharp\Cálculo Média de Alunos\Cálculo Média de Alunos\obj\Debug\net6.0\refint\Cálculo Média de Alunos.dll
+C:\Users\Higor\Documents\CSharp\Cálculo Média de Alunos\Cálculo Média de Alunos\obj\Debug\net6.0\Cálculo Média de Alunos.pdb
+C:\Users\Higor\Documents\CSharp\Cálculo Média de Alunos\Cálculo Média de Alunos\obj\Debug\net6.0\Cálculo Média de Alunos.genruntimeconfig.cache
+C:\Users\Higor\Documents\CSharp\Cálculo Média de Alunos\Cálculo Média de Alunos\obj\Debug\net6.0\ref\Cálculo Média de Alunos.dll
